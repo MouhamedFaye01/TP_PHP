@@ -1,0 +1,23 @@
+        .tableau {
+            text-align: center;
+        }
+        
+        input {
+            width: 20vw;
+            height: 3vh;
+            font-size: 1rem;
+            border-radius: 20%;
+        }
+        
+        label {
+            color: red;
+        }
+        
+        form {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            width: 95vw;
+            height: 95vh;
+        }
