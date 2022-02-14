@@ -14,7 +14,7 @@ function equation_premier($A,$B):void{
         echo"La solution de l'équation est X=: .$X";
     }
 }
-function equation_second(float $A,float $B, float $C):void{
+function equation_second(int|float $A,int|float $B, int|float $C):void{
     if($A==0 && $B==0 && $C==0){
         echo " L'équtation admet une infinté de solutions";
     }else{
@@ -53,6 +53,23 @@ function valid_nombre($nbre,string $key, array &$error):void{
         }
     }   
 }
+// function saisie($a,$b,$c)
+// {
+//     if (isset($_POST["btnok"])) {
+//         if (empty($_POST["nbreA"] OR empty($_POST["nbreB"]  empty($_POST["nbreC"])))) {
+//             header("location:index.html.php");
+//         }
+//         else {
+//         if (is_numeric($_POST["nbreA"]) && is_numeric($_POST["nbreB"] && $_POST["nbreC"])) {
+//             equation_second($a,$b,$c);
+//         }else {
+//             header("location:index.php");
+//         }
+//         }
+//     }
+// }
+
+?>
 
     
 
@@ -67,4 +84,3 @@ function valid_nombre($nbre,string $key, array &$error):void{
 
 
 
-?>

@@ -1,6 +1,6 @@
 <?php
 
-include("fonction.php");
+include_once("fonction.php");
 
 if(isset($_POST['btn_ok'])){
     $a=$_POST['nbrA'];
