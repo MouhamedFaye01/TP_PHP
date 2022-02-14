@@ -25,27 +25,27 @@
 
         <div class="un">
                 <a href="/projet_G/projet/Exercice_5/index.php">Exercice 5</a>
-                <a href="/projet/Exercice_1/index.php">Exercice 6</a>
-                <a href="/projet/Exercice_1/index.php">Exercice 7</a>
-                <a href="/projet/Exercice_1/index.php">Exercice 8</a>
+                <a href="/projet_G/projet/Exercice_6/index.html.php">Exercice 6</a>
+                <a href="/projet_G/projet/Exercice_7/index.php">Exercice 7</a>
+                <a href="/projet_G/projet/Exercice_8/index.php">Exercice 8</a>
         </div>
 
         <div class="un">
-                <a href="/projet/Exercice_1/index.php">Exercice 9</a>
-                <a href="/projet/Exercice_1/index.php">Exercice 10</a>
-                <a href="/projet/Exercice_1/index.php">Exercice 11</a>
-                <a href="/projet/Exercice_1/index.php">Exercice 12</a>
+                <a href="/projet_G/projet/Exercice_9/index.php">Exercice 9</a>
+                <a href="/projet_G/projet/Exercice_10/index.php">Exercice 10</a>
+                <a href="/projet_G/projet/Exercice_11/index.php">Exercice 11</a>
+                <a href="/projet_G/projet/Exercice_12/index.php">Exercice 12</a>
         </div>
 
         <div class="un">
                 
-                <a href="/projet/Exercice_1/index.php">Exercice 13</a>
-                <a href="/projet/Exercice_1/index.php">Exercice 14</a>
-                <a href="/projet/Exercice_1/index.php">Exercice 15</a>
-                <a href="/projet/Exercice_1/index.php">Exercice 16</a>
+                <a href="/projet_G/projet/Exercice_13/index.php">Exercice 13</a>
+                <a href="/projet_G/projet/Exercice_14/index.php">Exercice 14</a>
+                <a href="/projet_G/projet/Exercice_15/index.php">Exercice 15</a>
+                <a href="/projet_G/projet/Exercice_16/index.php">Exercice 16</a>
         </div>
         <div class="un">
-                <a href="/projet/Exercice_1/index.php">Exercice 17</a>
+                <a href="/projet_G/projet/Exercice_17/index.php">Exercice 17</a>
 
 
         </div>

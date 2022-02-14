@@ -1,5 +1,5 @@
 <?php
-    require "fonction.php";
+    include_once "fonction.php";
 define("VAL_MAX",100);
 define("VAL_MIN",1);
     $A= rand(VAL_MIN,VAL_MAX);

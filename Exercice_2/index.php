@@ -1,5 +1,5 @@
   <?php
-    require("fonction.php");
+    include_once("fonction.php");
 
     $longueur = rand(1,20);
     $largeur = rand(1,$longueur);

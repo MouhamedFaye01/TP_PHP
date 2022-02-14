@@ -1,5 +1,5 @@
 <?php
-require ("fonction.php");
+include_once ("fonction.php");
 
     $cote = rand(0 , 10);
     echo $cote."<br>";

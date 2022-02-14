@@ -1,5 +1,5 @@
 <?php
-require"fonction.php";
+include_once "fonction.php";
 $x1=rand(1,100);
 $x2=rand(1,100);
 $y1=rand(1,100);
